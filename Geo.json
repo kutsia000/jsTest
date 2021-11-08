@@ -1,0 +1,7 @@
+{
+    "illustrations":[
+        {"image":"url1","text":"key_1"},
+        {"image":"url2","text":"key_2"},
+        {"image":"url3","text":"key_3"}
+    ]
+}
